@@ -5,5 +5,7 @@
     "cmake.configureSettings": {
         "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
     },
-    "cmake.generator": "Unix Makefiles"
+    "cmake.generator": "Unix Makefiles",
+    "cmake.ignoreCMakeListsMissing": false,
+    "cmake.configureOnOpen": false
 }
